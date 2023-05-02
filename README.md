@@ -5,7 +5,7 @@
 
 We use the pipepline in the picture below:
 <p align="center">
-    <img src="figs/Pipeline_trainning.pdf">
+    <img src="figs/Pipeline_trainning.png">
 </p>
 Our pipeline is combination of BM25 and Sentence Transfromer.
 Let us describe our approach briefly:
